@@ -1,0 +1,12 @@
+/section/world
+/section/us
+/section/politics
+/section/nyregion
+/section/business
+/section/tech
+/section/science
+/section/health
+/section/sports
+/section/arts
+/section/books
+/section/realstate
